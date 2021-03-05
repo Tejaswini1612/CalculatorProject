@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20367" started-at="2021-03-05T05:38:04Z" finished-at="2021-03-05T05:38:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20367" started-at="2021-03-05T05:38:04Z" finished-at="2021-03-05T05:38:24Z">
+      <class name="com.calculator.OnlineCalculator">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.calculator.OnlineCalculator@56a6d5a6]" name="openBrowser" is-config="true" duration-ms="5148" started-at="2021-03-05T05:37:59Z" finished-at="2021-03-05T05:38:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="enterUrl()[pri:0, instance:com.calculator.OnlineCalculator@56a6d5a6]" name="enterUrl" is-config="true" duration-ms="3319" started-at="2021-03-05T05:38:04Z" finished-at="2021-03-05T05:38:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUrl -->
+        <test-method status="PASS" signature="maximizebrowser()[pri:0, instance:com.calculator.OnlineCalculator@56a6d5a6]" name="maximizebrowser" is-config="true" duration-ms="163" started-at="2021-03-05T05:38:07Z" finished-at="2021-03-05T05:38:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizebrowser -->
+        <test-method status="PASS" signature="multiplication()[pri:1, instance:com.calculator.OnlineCalculator@56a6d5a6]" name="multiplication" duration-ms="4331" started-at="2021-03-05T05:38:07Z" finished-at="2021-03-05T05:38:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplication -->
+        <test-method status="PASS" signature="division()[pri:2, instance:com.calculator.OnlineCalculator@56a6d5a6]" name="division" duration-ms="3802" started-at="2021-03-05T05:38:12Z" finished-at="2021-03-05T05:38:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- division -->
+        <test-method status="PASS" signature="addition()[pri:3, instance:com.calculator.OnlineCalculator@56a6d5a6]" name="addition" duration-ms="4128" started-at="2021-03-05T05:38:16Z" finished-at="2021-03-05T05:38:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addition -->
+        <test-method status="PASS" signature="subtraction()[pri:4, instance:com.calculator.OnlineCalculator@56a6d5a6]" name="subtraction" duration-ms="4345" started-at="2021-03-05T05:38:20Z" finished-at="2021-03-05T05:38:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtraction -->
+      </class> <!-- com.calculator.OnlineCalculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
